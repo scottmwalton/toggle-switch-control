@@ -9,3 +9,7 @@ TestResults
 *.user
 *.suo
 *ReSharper.*
+
+# Visual Studio Folders
+.cr
+.vs
